@@ -124,4 +124,6 @@ kubectl port-forward -n monitoring svc/prometheus-grafana 3000:80
 5. Нажать **Import**
 
 ---
+### Демонстрация работы - https://drive.google.com/drive/folders/1pJozq_o3FdjUWlFWS180h9YnjyFQsQux?usp=sharing    
+
 
